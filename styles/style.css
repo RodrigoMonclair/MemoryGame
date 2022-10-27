@@ -1,0 +1,9 @@
+
+/* esconde */
+.hide{
+    display: none;
+}
+/* mostra */
+.show{
+    display:block;
+}
